@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81ff66cd-c22e-4500-8cd3-29b3483ec41d" name="Default Changelist" comment="" />
+    <list default="true" id="81ff66cd-c22e-4500-8cd3-29b3483ec41d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kVgz5GSkb8ixGooglQafKGuXk1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,7 +36,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../z5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../z3" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -41,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605791431739</updated>
-      <workItem from="1605791432816" duration="18907000" />
+      <workItem from="1605791432816" duration="21455000" />
     </task>
     <servers />
   </component>
@@ -53,10 +61,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="714" y="344" key="#Notifications/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1605799142192" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605791477003">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605812112813">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1605791477003" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1605812112813" />
+    <state x="838" y="418" key="Github.ShareDialog" timestamp="1605811366245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="418" key="Github.ShareDialog/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1605811366245" />
+    <state x="818" y="225" key="Github.UntrackedFilesDialog" timestamp="1605811373748">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="818" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1605811373748" />
     <state x="398" y="328" key="SettingsEditor" timestamp="1605799129651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
