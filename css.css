@@ -42,3 +42,7 @@ label{
     color: white;
     font-size: 15px;
 }
+
+#content{
+    min-height: 600px;
+}
