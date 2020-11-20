@@ -1,3 +1,17 @@
+
+
+$(document).ready(function () {
+
+    $.getJSON('items.json', function (data) {
+        $.each(data.items, function (i, f) {
+            $('#images').append("<a  href=" + f.src + " data-lightbox= \"images\" data-title=" + f.description + "   > <img  src=" + f.src + " ></a>" );
+
+
+        });
+    });
+});
+
+/*
 $(document).ready(function() {
 
     $.getJSON('items.json', function(data) {
@@ -7,14 +21,14 @@ $(document).ready(function() {
         });
     });
 });
+*/
 
-
-(function($) {
-    $(document).ready(function() {
-        $("#inputT").keyup(function() {
+(function ($) {
+    $(document).ready(function () {
+        $("#inputT").keyup(function () {
 
             // Retrieve the input field text and reset the count to zero
-            escape = function(text) {
+            escape = function (text) {
                 return text.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, "\\$&");
             };
 
@@ -22,29 +36,27 @@ $(document).ready(function() {
 
             $('#images img').remove();
 
-            if (filter === ''){
-                $.getJSON('items.json', function(data) {
-                    $.each(data.items, function(i, f) {
+            if (filter === '') {
+                $.getJSON('items.json', function (data) {
+                    $.each(data.items, function (i, f) {
                         $("#images").append("<img src=" + f.src + " >");
 
                     });
                 });
-            }
-            else {
+            } else {
 
 
-            $.getJSON('items.json', function(data) {
-                $.each(data.items, function(i, f) {
-                    if (f.title.includes(filter) || f.description.includes(filter)){
-                        $("#images").append("<img src=" + f.src + " >");
-                    }
-                    else {
+                $.getJSON('items.json', function (data) {
+                    $.each(data.items, function (i, f) {
+                        if (f.title.includes(filter) || f.description.includes(filter)) {
+                            $("#images").append("<img src=" + f.src + " >");
+                        } else {
 
-                    }
+                        }
 
+                    });
                 });
-            });
-            // Loop through the comment list
+                // Loop through the comment list
 
 
             }
@@ -53,3 +65,5 @@ $(document).ready(function() {
 })(jQuery)
 
 dragula([document.querySelector('#images')])
+
+

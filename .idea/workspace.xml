@@ -19,9 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81ff66cd-c22e-4500-8cd3-29b3483ec41d" name="Default Changelist" comment="uj valtozat mobil verzio">
+    <list default="true" id="81ff66cd-c22e-4500-8cd3-29b3483ec41d" name="Default Changelist" comment="uj valtozat mobil verzio 2.0">
+      <change afterPath="$PROJECT_DIR$/images/lightgallery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/items.json" beforeDir="false" afterPath="$PROJECT_DIR$/items.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/js.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +50,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kVgz5GSkb8ixGooglQafKGuXk1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -67,7 +75,8 @@
       <option name="presentableId" value="Default" />
       <updated>1605791431739</updated>
       <workItem from="1605791432816" duration="22714000" />
-      <workItem from="1605816040794" duration="675000" />
+      <workItem from="1605816040794" duration="745000" />
+      <workItem from="1605862527417" duration="11322000" />
     </task>
     <task id="LOCAL-00001" summary="uj valtozat mobil verzio">
       <created>1605814016579</created>
@@ -83,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605816445870</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="uj valtozat mobil verzio 2.0">
+      <created>1605816774418</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605816774418</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,10 +115,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="uj valtozat mobil verzio" />
-    <option name="LAST_COMMIT_MESSAGE" value="uj valtozat mobil verzio" />
+    <MESSAGE value="uj valtozat mobil verzio 2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="uj valtozat mobil verzio 2.0" />
   </component>
   <component name="WindowStateProjectService">
     <state x="714" y="344" key="#Notifications" timestamp="1605799142192">
@@ -125,9 +143,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="398" y="328" key="SettingsEditor/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1605799129651" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605816458549">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605816776694">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1605816458549" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1605816776694" />
   </component>
 </project>
