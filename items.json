@@ -4,38 +4,38 @@
     {
       "id": "1",
       "src": "images/ace.png",
-      "title": "ace",
-      "description": "\"There is no chasm too wide, no wall too thick, that will stop me from bringing you home. \n — Ace\""
+      "title": "Ace",
+      "description": "\"There is no chasm too wide, no wall too thick, that will stop me from bringing you home. \n — ace\""
     },
     {
       "id": "2",
       "src": "images/bandit.png",
-      "title": "bandit",
-      "description": "\"I used to be undercover. I did time. I had to deal drugs. I even had to kill. And I was so good at it that, it got me a promotion.\"\n— Bandit"
+      "title": "Bandit",
+      "description": "\"I used to be undercover. I did time. I had to deal drugs. I even had to kill. And I was so good at it that, it got me a promotion.\"\n— bandit"
     },
     {
       "id": "3",
       "src": "images/mira.png",
-      "title": "mira",
-      "description": "\"Think of me as your conscience. I see everything, and I'm just as ruthless.\"\n— Mira"
+      "title": "Mira",
+      "description": "\"Think of me as your conscience. I see everything, and I am just as ruthless.\"\n— mira"
     },
     {
       "id": "4",
       "src": "images/blackbeard.png",
-      "title": "blackbeard",
-      "description": "\"I'm a diver. We're used to seeing threats through a layer of tempered glass.\"\n— Blackbeard"
+      "title": "Blackbeard",
+      "description": "\"I am a diver. We are used to seeing threats through a layer of tempered glass.\"\n— blackbeard"
     },
     {
       "id": "5",
       "src": "images/melusi.png",
-      "title": "warden",
-      "description": "\"I was trapped, for a long time. Lived and seen things, you couldn't imagine. Now I see things... in a different light.\"\n— Warden"
+      "title": "Warden",
+      "description": "\"I was trapped, for a long time. Lived and seen things, you could not imagine. Now I see things... in a different light.\"\n— warden"
     },
     {
       "id": "6",
       "src": "images/cav.png",
-      "title": "caveira",
-      "description": "\"Not every child gets to choose who they grow up to be.\"\n— Caveira"
+      "title": "Caveira",
+      "description": "\"Not every child gets to choose who they grow up to be.\"\n— caveira"
     }
   ]
 }
