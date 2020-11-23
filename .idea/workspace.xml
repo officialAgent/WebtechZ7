@@ -19,12 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81ff66cd-c22e-4500-8cd3-29b3483ec41d" name="Default Changelist" comment="uj valtozat mobil verzio 2.0">
-      <change afterPath="$PROJECT_DIR$/images/lightgallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lightbox.js" afterDir="false" />
+    <list default="true" id="81ff66cd-c22e-4500-8cd3-29b3483ec41d" name="Default Changelist" comment="uj valtozat mobil verzio 2.0 lightbox fejlesztes elotti verzio">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/items.json" beforeDir="false" afterPath="$PROJECT_DIR$/items.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/js.js" afterDir="false" />
@@ -41,8 +37,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -76,7 +72,14 @@
       <updated>1605791431739</updated>
       <workItem from="1605791432816" duration="22714000" />
       <workItem from="1605816040794" duration="745000" />
-      <workItem from="1605862527417" duration="11322000" />
+      <workItem from="1605862527417" duration="13385000" />
+      <workItem from="1605964940381" duration="68000" />
+      <workItem from="1605978606437" duration="3363000" />
+      <workItem from="1606034472244" duration="12270000" />
+      <workItem from="1606075112760" duration="54000" />
+      <workItem from="1606075577853" duration="915000" />
+      <workItem from="1606121784067" duration="567000" />
+      <workItem from="1606122405276" duration="368000" />
     </task>
     <task id="LOCAL-00001" summary="uj valtozat mobil verzio">
       <created>1605814016579</created>
@@ -99,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605816774418</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="uj valtozat mobil verzio 2.0 lightbox fejlesztes elotti verzio">
+      <created>1605897987953</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605897987953</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +130,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="uj valtozat mobil verzio" />
     <MESSAGE value="uj valtozat mobil verzio 2.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="uj valtozat mobil verzio 2.0" />
+    <MESSAGE value="uj valtozat mobil verzio 2.0 lightbox fejlesztes elotti verzio" />
+    <option name="LAST_COMMIT_MESSAGE" value="uj valtozat mobil verzio 2.0 lightbox fejlesztes elotti verzio" />
   </component>
   <component name="WindowStateProjectService">
     <state x="714" y="344" key="#Notifications" timestamp="1605799142192">
@@ -143,9 +154,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="398" y="328" key="SettingsEditor/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1605799129651" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605816776694">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605897991292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1605816776694" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1605897991292" />
+    <state x="803" y="292" key="refactoring.ChangeSignatureDialog" timestamp="1606035572284">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="292" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1606035572284" />
   </component>
 </project>

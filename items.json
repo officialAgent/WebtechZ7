@@ -2,31 +2,37 @@
   "items":
   [
     {
+      "id": "1",
       "src": "images/ace.png",
       "title": "ace",
       "description": "\"There is no chasm too wide, no wall too thick, that will stop me from bringing you home. \n — Ace\""
     },
     {
+      "id": "2",
       "src": "images/bandit.png",
       "title": "bandit",
       "description": "\"I used to be undercover. I did time. I had to deal drugs. I even had to kill. And I was so good at it that, it got me a promotion.\"\n— Bandit"
     },
     {
+      "id": "3",
       "src": "images/mira.png",
       "title": "mira",
       "description": "\"Think of me as your conscience. I see everything, and I'm just as ruthless.\"\n— Mira"
     },
     {
+      "id": "4",
       "src": "images/blackbeard.png",
       "title": "blackbeard",
       "description": "\"I'm a diver. We're used to seeing threats through a layer of tempered glass.\"\n— Blackbeard"
     },
     {
+      "id": "5",
       "src": "images/melusi.png",
       "title": "warden",
       "description": "\"I was trapped, for a long time. Lived and seen things, you couldn't imagine. Now I see things... in a different light.\"\n— Warden"
     },
     {
+      "id": "6",
       "src": "images/cav.png",
       "title": "caveira",
       "description": "\"Not every child gets to choose who they grow up to be.\"\n— Caveira"
